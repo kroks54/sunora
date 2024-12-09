@@ -37,7 +37,7 @@
     .container-comments-user-text {
         width: calc(100% - 25%);
         padding-left: 14px;
-        font-size: 0.9em;
+        font-size: 0.7em;
     }
     .container-comments-user-nic {
         font-size: 0.8em;
@@ -85,7 +85,7 @@
     .container-comments-user-text {
         width: calc(100% - 25%);
         padding-left: 14px;
-        font-size: 0.9em;
+        font-size: 0.7em;
     }
     .container-comments-user-nic {
         font-size: 0.8em;
@@ -124,7 +124,7 @@
     .container-comments-user-text {
         width: calc(100% - 20%);
         padding-left: 24px;
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
 
 }
