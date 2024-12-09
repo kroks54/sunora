@@ -262,32 +262,25 @@ const data = {
         ],
     },
     su13: {
-        title: "",
-        image: "image/content/",
+        title: "Грёбаный навигатор! Привёл шкуру не на пляж, а хз куда.",
+        image: "image/content/8fdg.jpg",
         stars: {
             total: 3,
             src: "image/icons/star_86960.png"
         },
         comments: [
-                {
-                    src: "image/icons/icon_user.png",
-                    name: "Nazgul69",
-                    text: ""
-                }
+                {}
         ],
-    }su14: {
-        title: "",
-        image: "image/content/",
+    },
+    su14: {
+        title: "What the shite!",
+        image: "image/content/dr5364rt.jpg",
         stars: {
             total: 3,
             src: "image/icons/star_86960.png"
         },
         comments: [
-                {
-                    src: "image/icons/icon_user.png",
-                    name: "Nazgul69",
-                    text: ""
-                }
+                {}
         ],
     }
 };
