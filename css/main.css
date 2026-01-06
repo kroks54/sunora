@@ -51,9 +51,9 @@ a:link, a:visited, a:hover, a:active {
     float: right;
     margin-right: 6px;
 }
-.m-h1 {
+.m-text-p {
     margin-top: 16px;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #897d6e;
 }
 .cont {
