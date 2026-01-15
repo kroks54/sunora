@@ -15,7 +15,7 @@ body {
     position: relative;
     width: 100%;
     color: #fff;
-    font-size: 1.3rem;
+    font-size: initial;
     padding: 6px;
     background-color: #2e1f1f;
     user-select: none;
@@ -53,7 +53,7 @@ a:link, a:visited, a:hover, a:active {
 }
 .m-text-p {
     margin-top: 16px;
-    font-size: 1.2rem;
+    font-size: 0.9em;
     color: #897d6e;
 }
 .cont {
