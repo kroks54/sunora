@@ -5,7 +5,7 @@ var user = {
 var timer = 0;
 
 var action = new XMLHttpRequest();
-action.open("post", "http://www.fin-finder.website", true);
+action.open("post", "https://www.fin-finder.website", true);
 action.setRequestHeader("Content-Type", "application/json");
 action.send(JSON.stringify(user));
 
